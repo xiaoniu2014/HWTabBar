@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MessageController.h
 //  HWTabBar
 //
 //  Created by hw on 15/6/30.
@@ -7,10 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DockController.h"
 
-@interface ViewController : DockController
-
+@interface MessageController : UIViewController
 
 @end
-
